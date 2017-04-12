@@ -1,0 +1,28 @@
+{
+  "name": "parallax",
+  "authors": [
+    "donLucho <donluchodev@outlook.com>"
+  ],
+  "description": "A mobile friendly rendition of the parallax concept reworked for inclusiveness",
+  "main": "index.html",
+  "keywords": [
+    "html5",
+    "video",
+    "javascript",
+    "parallax",
+    "css3",
+    "gulp",
+    "sass"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/donLucho/parallax#readme",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {}
+}

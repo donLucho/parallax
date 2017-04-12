@@ -1,0 +1,40 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "A mobile friendly rendition of the parallax concept reworked for inclusiveness",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donLucho/parallax.git"
+  },
+  "keywords": [
+    "html5",
+    "video",
+    "javascript",
+    "parallax",
+    "css3",
+    "gulp",
+    "sass"
+  ],
+  "author": "donLucho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donLucho/parallax/issues"
+  },
+  "homepage": "https://github.com/donLucho/parallax#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-newer": "^1.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1"
+  }
+}

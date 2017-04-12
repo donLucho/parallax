@@ -1,0 +1,37 @@
+// --------------------------- atFONTFACE Properties ---------------------
+$fntFce_weight: normal;
+$fntFce_style: normal;
+
+$fntFce_family_cmft: 'ComfortaaRegular';
+$fntFce_url_paths_eot_cmft: url('../fonts/Comfortaa_Regular-webfont.eot'); 
+$fntFce_url_paths_fix_all_cmft: url('../fonts/Comfortaa_Regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Comfortaa_Regular-webfont.woff') format('woff'), url('../fonts/Comfortaa_Regular-webfont.ttf') format('truetype'), url('../fonts/Comfortaa_Regular-webfont.svg#ComfortaaRegular') format('svg');
+
+$fntFce_family_amds: 'AmadeusRegular';
+$fntFce_url_paths_eot_amds: url('../fonts/Amadeus-webfont.eot'); 
+$fntFce_url_paths_fix_all_amds: url('../fonts/Amadeus-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Amadeus-webfont.woff') format('woff'), url('../fonts/Amadeus-webfont.ttf') format('truetype'), url('../fonts/Amadeus-webfont.svg#AmadeusRegular') format('svg'); 
+
+// -------- solid HEX VALUEs ~ assortment of MANY colors in a palette -------------	
+$col_blackProper: #000000;
+$col_whiteProper: #FFFFFF;	
+// ---------- RGBs ---------------------------
+$col_blk_trp: rgb(0,0,0); /* #000000 */	
+$col_purplePassion: rgb(51,0,102); /* #330066 */
+$col_pink: rgb(255,94,153); /* soft pink ~ #FF5E99 */ 
+$col_parakeet: rgb(255,255,106); /* #FFFF6A; */
+$col_yellow: rgb(255,255,0); /* #FFFF00; */ /* $col_: #FFFF00; */
+$col_blkToRedDk_trp: rgb(51,51,51); /* $col_: #333333;*/
+$col_clearsky: rgb(63, 120, 198); /* #3F78C6 */
+// ---------- RGBAs ---------------------------
+$col_pre_disint_black_alfa: rgba(0,0,0,0.8); /* #000000 */
+$col_slctPink_active: rgba( 255,149,239,0.8 ); // #FF95EF vivrant pink 
+$col_slctBlue_active: rgba( 150,235,255,0.8 ); // #96EBFF vivrant baby-blue 
+$col_black_alfa: rgba(0,0,0,0.3); /* #000000 */
+$col_black_pre_alfa: rgba(0,0,0,0.4); /* #000000 */
+$col_pre_disint_black_alfa_ii: rgba(0,0,0,0.75); /* #000000 */
+$col_pre_disint_babyblue_alfa: rgba(99,170,222, 0.8); /* #63AADE */
+$col_pre_disint_ltGrey_alfa: rgba(158,152,165, .75); /* #9E98A5 */
+$col_pre_disint_ltPurple_alfa: rgba(173,124,203, 0.8); /* #ad7ccb */
+$col_pre_disint_ltBabyBlue_alfa: rgba(196,253,247, 0.8); /* #C4FDF7*/
+$col_pre_disint_sand_alfa: rgba(220,207,92, 0.8); /* #DCCF5C */
+$col_pre_disint_orange_alfa: rgba(238,117,46, 0.8); /* #EE752E */
+

@@ -1,0 +1,204 @@
+// DEFAULT
+$imgUrl_shared_cord: '../img/shared/cord3.png'; 
+$imgUrl_logo_def: '../img/DSKTP/luchologo.png'; 
+$imgUrl_unionjack_def: '../img/DSKTP/unionJack_Nami.png'; 
+$imgUrl_question_def: '../img/DSKTP/question.png'; 
+$imgUrl_arigato_def: '../img/DSKTP/arigatoNamiswan.jpg'; 
+// NON-PAREILS
+$imgUrl_arigato_1024: '../img/TAB.png'; // 1024	
+$imgUrl_arigato_768: '../img/TAB.png'; // 768
+$imgUrl_arigato_480: '../img/PHN.png'; // 480
+$imgUrl_arigato_320: '../img/PHN.png'; // 320
+// 1024n768
+$imgUrl_logo_1024n768: '../img/TABz/luchologo_1024.png'; 
+$imgUrl_unionjack_1024n768: '../img/TABz/unionJack_Nami_1024.png'; 
+$imgUrl_question_1024n768: '../img/TABz/question_1024.png'; 
+// 480n320
+$imgUrl_logo_480n320: '../img/PHONEs/luchologo_480.png'; 
+$imgUrl_unionjack_480n320: '../img/PHONEs/unionJack_Nami_480.png'; 
+$imgUrl_question_480n320: '../img/PHONEs/question_480.png'; 
+
+$bgpos_one_1024: 50% 0% no-repeat fixed;
+$bgpos_two_1024: 50% 11.0748663% no-repeat fixed;
+$bgpos_three_1024: 50% 20.0748663% no-repeat fixed;
+$bgpos_four_1024: 50% 29.1122994% no-repeat fixed;
+$bgpos_clsr_1024: 50% 39.1497326% no-repeat fixed;
+
+$bgpos_one_lndtab: 50% 0% no-repeat fixed;
+$bgpos_two_lndtab: 50% 0% no-repeat fixed;
+$bgpos_three_lndtab: 50% 0% no-repeat fixed;
+$bgpos_four_lndtab: 50% 0% no-repeat fixed;
+$bgpos_clsr_lndtab: 50% 0% no-repeat fixed; 
+
+$bgpos_one_800: 50% 0% no-repeat fixed;
+$bgpos_two_800: 50% 10% no-repeat fixed;
+$bgpos_three_800: 50% 20% no-repeat fixed;
+$bgpos_four_800: 50% 30% no-repeat fixed;
+$bgpos_clsr_800: 50% 40% no-repeat fixed; 
+
+$bgpos_one_prttab: 3.322% 99.764% no-repeat fixed;	
+$bgpos_two_prttab: 3.322% 99.764% no-repeat fixed;
+$bgpos_three_prttab: 3.322% 99.764% no-repeat fixed;
+$bgpos_four_prttab: 3.322% 99.764% no-repeat fixed;
+$bgpos_clsr_prttab: 3.322% 99.764% no-repeat fixed;
+
+$bgpos_one_480: 14% 0% no-repeat fixed;
+$bgpos_two_480: 14% 9.4117647% no-repeat fixed;
+$bgpos_three_480: 14% 17.3235294% no-repeat fixed;
+$bgpos_four_480: 14% 31.2352941% no-repeat fixed;
+$bgpos_clsr_480: 14% 38.6970588% no-repeat fixed;
+
+$bgpos_one_lndphn: 50% 0% no-repeat fixed;
+$bgpos_two_lndphn: 50% 0% no-repeat fixed;
+$bgpos_three_lndphn: 50% 0% no-repeat fixed;
+$bgpos_four_lndphn: 50% 0% no-repeat fixed;
+$bgpos_clsr_lndphn: 50% 0% no-repeat fixed;
+
+$bgpos_one_427: 14% 0.438% no-repeat fixed; // 9.4117647%
+$bgpos_two_427: 14% 10.438% no-repeat fixed;
+$bgpos_three_427: 14% 19.6238% no-repeat fixed;
+$bgpos_four_427: 14% 28.938% no-repeat fixed;
+$bgpos_clsr_427: 14% 38.938% no-repeat fixed;
+
+$bgpos_one_320: 5.102% 54.938% no-repeat fixed;
+$bgpos_two_320: 5.102% 67.438% no-repeat fixed;
+$bgpos_three_320: 5.102% 77.938% no-repeat fixed;
+$bgpos_four_320: 5.102% 88.438% no-repeat fixed;
+$bgpos_clsr_320: 5.102% 99.438% no-repeat fixed;
+
+$bgpos_one_prtphn: 5.102% 99.438% no-repeat fixed;
+$bgpos_two_prtphn: 5.102% 99.438% no-repeat fixed;
+$bgpos_three_prtphn: 5.102% 99.438% no-repeat fixed;
+$bgpos_four_prtphn: 5.102% 99.438% no-repeat fixed;
+$bgpos_clsr_prtphn: 5.102% 99.438% no-repeat fixed;
+
+
+$bgpos_spcttl_1024: 50% 0% no-repeat fixed;
+$bgpos_spcttl_lndtab: 50% 0% no-repeat fixed;
+$bgpos_spcttl_800: 50% 0% no-repeat fixed;
+$bgpos_spcttl_prttab: 50% 0% no-repeat fixed;
+$bgpos_spcttl_480: 52% 0% no-repeat fixed;
+$bgpos_spcttl_lndphn: 0% 0% no-repeat fixed;
+$bgpos_spcttl_427: 50% 0% no-repeat fixed;
+$bgpos_spcttl_320: 0% 0% no-repeat fixed;
+$bgpos_spcttl_prtphn: 0% 0% no-repeat fixed;
+$bgpos_jlyrgr_1024: 50% 50% no-repeat fixed;
+$bgpos_jlyrgr_lndtab: 50% 50% no-repeat fixed;
+$bgpos_jlyrgr_800: 50% 50% no-repeat fixed;
+$bgpos_jlyrgr_prttab: 50% 50% no-repeat fixed;
+
+//// $bgpos_jlyrgr_480: 0% 0% repeat fixed;
+// $bgpos_jlyrgr_480: 23% -9% repeat-x fixed;
+$bgpos_jlyrgr_480: 23% -21% repeat-x fixed; // present
+// $bgpos_jlyrgr_480: 50% 50% no-repeat fixed;
+
+$bgpos_jlyrgr_lndphn: 0% 0% repeat fixed;
+$bgpos_jlyrgr_320: 0% 0% no-repeat fixed;
+$bgpos_jlyrgr_prtphn: 0% 0% no-repeat fixed;
+$bgpos_jane_1024: 44% 50% no-repeat fixed;
+$bgpos_jane_lndtab: 0% 0% no-repeat fixed;
+$bgpos_jane_800: 51.25% 46% no-repeat fixed;
+$bgpos_jane_prttab: -5% 43% repeat fixed;
+$bgpos_jane_480: 52% 0% no-repeat fixed;
+$bgpos_jane_lndphn: 0% 0% no-repeat fixed;
+$bgpos_jane_427: 0% 0% no-repeat fixed;
+$bgpos_jane_320: 0% 0% no-repeat fixed;
+$bgpos_jane_prtphn: 0% 0% no-repeat fixed;
+// END PIMA
+
+// ---------------- BACKGROUND POSITION ATTRIBUTES -----------------
+// default 
+$bgpos_cord_d: 0% 0% repeat fixed; 
+$bgpos_one_d: 50% 0 no-repeat fixed; 
+$bgpos_two_d: 50% 22.33% no-repeat fixed;
+$bgpos_three_d: 50% 44.66% no-repeat fixed;
+$bgpos_four_d: 50% 66.99% no-repeat fixed;
+$bgpos_clsr_d: 50% 89.32% no-repeat fixed;
+$bgpos_spcttl_d: 50% 18.25% no-repeat fixed; 
+$bgpos_jlyrgr_d: 40% 30% no-repeat fixed;
+$bgpos_jane_d: 50% 10% no-repeat fixed;
+
+// ------------ TRANSFORM PROPERTIES, red yellow green  ------------ 	
+// lndtab
+$spcttl_lndtab_TX: translateX(-0.125em);
+$spcttl_lndtab_red: translateY(4em);
+$spcttl_lndtab_ylw: translateY(32em);
+$spcttl_lndtab_grn: translateY(40em);	
+$jlyrgr_lndtab_TX: translateX(-20.56640625em);
+$jlyrgr_lndtab_red: translateY(-1.0546875em);
+$jlyrgr_lndtab_ylw: translateY(8.4375em);
+$jlyrgr_lndtab_grn: translateY(18.75em);
+$vdo_lndtab_TX: translateX(28.875em);
+$vdo_lndtab_red: translateY(4.546875em);
+$vdo_lndtab_ylw: translateY(36.375em);
+$vdo_lndtab_grn: translateY(50.015625em);	
+$jane_lndtab_TX: translateX(0em);
+$jane_lndtab_TY: translateY(0em);
+// 1024
+$jane_1024_TX: translateX( 4.25% );
+$jane_1024_TY: translateY( -5% );
+// 800 
+$jane_800_TX: translateX( 3.45% );
+$jane_800_TY: translateY( -111.25% );
+// prttab	
+$spcttl_prttab_TX: translateX(0.65625em);
+$spcttl_prttab_red: translateY(6em);
+$spcttl_prttab_ylw: translateY(36em);
+$spcttl_prttab_grn: translateY(51em);		
+$jlyrgr_prttab_TX: translateX(-16.875em);
+$jlyrgr_prttab_red: translateY(-41.375em);
+$jlyrgr_prttab_ylw: translateY(3.75em);
+$jlyrgr_prttab_grn: translateY(24em);
+$vdo_prttab_TX: translateX(33.7875em);
+$vdo_prttab_red: translateY(-1.1875em);
+$vdo_prttab_ylw: translateY(38em);
+$vdo_prttab_grn: translateY(68.875em);
+$jane_prttab_TX: translateX(0em);
+$jane_prttab_TY: translateY(43.875em);	
+// 480
+$vdo_480_TX: translateX(15.150875em);
+$vdo_480_red: translateY(4.636265625em);
+$vdo_480_ylw: translateY(10.625em);
+$vdo_480_grn: translateY(16.4845em); 
+// lndphn	
+$spcttl_lndphn_TX: translateX(0.496875em);
+$spcttl_lndphn_red: translateY(2em);
+$spcttl_lndphn_ylw: translateY(3.625em);
+$spcttl_lndphn_grn: translateY(16.875em);	
+$jlyrgr_lndphn_TX: translateX(-6.85546875em);
+$jlyrgr_lndphn_red: translateY(-0.84375em);
+$jlyrgr_lndphn_ylw: translateY(6.75em);
+$jlyrgr_lndphn_grn: translateY(13.5em);
+$vdo_lndphn_TX: translateX(15.150875em);
+$vdo_lndphn_red: translateY(4.636265625em);
+$vdo_lndphn_ylw: translateY(10.625em);
+$vdo_lndphn_grn: translateY(16.4845em);
+$jane_lndphn_TX: translateX(0.458984375em);
+$jane_lndphn_TY: translateY(16.875em); 
+// 427
+$vdo_427_TX: translateX(11.150875em);
+$vdo_427_red: translateY(4.636265625em);
+$vdo_427_ylw: translateY(10.625em);
+$vdo_427_grn: translateY(16.4845em);
+$jane_427_TX: translateX(0.458984375em);
+$jane_427_TY: translateY(16.875em); 
+// 320 
+$vdo_320_TX: translateX(11.234710693359375em);
+$vdo_320_red: translateY(7.375em);
+$vdo_320_ylw: translateY(14.7705078125em);
+$vdo_320_grn: translateY(25.8125em);
+// prtphn
+$spcttl_prtphn_TX: translateX(0.65625em);
+$spcttl_prtphn_red: translateY(2em);
+$spcttl_prtphn_ylw: translateY(4em);
+$spcttl_prtphn_grn: translateY(19.25em);
+$jlyrgr_prtphn_TX: translateX(-6.85546875em);
+$jlyrgr_prtphn_red: translateY(1.58203125em);
+$jlyrgr_prtphn_ylw: translateY(7.59375em);
+$jlyrgr_prtphn_grn: translateY(15.1875em); 
+$vdo_prtphn_TX: translateX(13.234710693359375em);
+$vdo_prtphn_red: translateY(7.375em);
+$vdo_prtphn_ylw: translateY(14.7705078125em);
+$vdo_prtphn_grn: translateY(25.8125em);	
+$jane_prtphn_TX: translateX(0.65625em);
+$jane_prtphn_TY: translateY(16.875em); 
